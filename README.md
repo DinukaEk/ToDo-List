@@ -22,10 +22,6 @@ A modern, feature-rich to-do list application built with React and Tailwind CSS.
 - 📊 **Statistics** - View total, completed, and pending task counts
 - 📱 **Responsive Design** - Works seamlessly on all devices
 
-## 🚀 Demo
-
-![App Screenshot](./screenshot.png) *(Add your screenshot here)*
-
 ## 🛠️ Technologies Used
 
 - **React** - Frontend framework
@@ -165,7 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - React team for the amazing framework
 - Tailwind CSS for the utility-first approach
-- Icons from emoji set
+- Icons from the emoji set
 
 ## 🐛 Known Issues
 
@@ -182,17 +178,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Task notes and descriptions
 - [ ] Recurring tasks
 - [ ] Notifications for due dates
-
-## 📸 Screenshots
-
-### Light Mode
-![Light Mode](./screenshots/light-mode.png)
-
-### Dark Mode
-![Dark Mode](./screenshots/dark-mode.png)
-
-### Mobile View
-![Mobile View](./screenshots/mobile-view.png)
 
 ---
 
