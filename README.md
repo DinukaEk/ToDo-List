@@ -153,9 +153,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+**Dinuka Ekanayake**
+- GitHub: [@DinukaEk](https://github.com/DinukaEk)
 
 ## 🙏 Acknowledgments
 
@@ -165,7 +164,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Known Issues
 
-- None currently. Please report any issues in the [Issues](https://github.com/yourusername/todo-board-app/issues) section.
+- None currently. Please report any issues in the [Issues](https://github.com/DinukaEk/ToDo-List/issues) section.
 
 ## 📈 Future Enhancements
 
