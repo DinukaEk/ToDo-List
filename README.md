@@ -39,8 +39,8 @@ A modern, feature-rich to-do list application built with React and Tailwind CSS.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/todo-board-app.git
-   cd todo-board-app
+   git clone https://github.com/DinukaEk/ToDo-List.git
+   cd ToDo-List
    ```
 
 2. **Install dependencies**
